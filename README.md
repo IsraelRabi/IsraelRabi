@@ -1,7 +1,7 @@
 ### Olá 👋
 Meu nome é Israel Rabi tenho 19 anos e moro em Campina Grande - PB, sou formado em Técnico em informática pela Escola Técnica Redentorista e adoro estudar novas tecnologias.
 
-Tenho conhecimentos em HTML, CSS, JS, PHP e Node. se quiser pode dar uma olhada no meu portfólio é so acessar israelrabi.com
+Tenho conhecimentos em HTML, CSS, JS, PHP e Node. se quiser pode dar uma olhada no meu portfólio [israelrabi.com](http://israelrabi.com).
 
 <!--
 **IsraelRabi/IsraelRabi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
